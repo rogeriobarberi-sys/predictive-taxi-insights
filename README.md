@@ -32,4 +32,4 @@ The analysis yielded the following results:
 ## 🛠️ How to Use
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rogeriobarberi-sys/predictive-taxi-insights.git](https://github.com/rogeriobarberi-sys/predictive-taxi-insights.git)
+   git clone https://github.com/rogeriobarberi-sys/predictive-taxi-insights.git
